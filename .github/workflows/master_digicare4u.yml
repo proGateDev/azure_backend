@@ -61,4 +61,4 @@ jobs:
           app-name: 'digicare4u'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30CE63FFD72A4C6AA3C955299983CD36 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CCD36B5A84F947E7B15721C9F8886CAD }}
