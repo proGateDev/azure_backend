@@ -1,0 +1,39 @@
+{
+  "name": "astrologics",
+  "version": "1.0.0",
+  "description": "A backend for all the astrology related Logics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.3",
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.3.4",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "firebase-admin": "^13.0.2",
+    "form-data": "^4.0.0",
+    "geojson-utils": "^1.1.0",
+    "haversine-distance": "^1.2.3",
+    "joi": "^17.9.2",
+    "jsonwebtoken": "^9.0.2",
+    "mailgun.js": "^10.2.3",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.5.47",
+    "mongoose": "^6.9.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.15",
+    "nodemon": "^2.0.20",
+    "openai": "^3.2.1",
+    "socket.io": "^4.8.1",
+    "xlsx": "^0.18.5"
+  }
+}

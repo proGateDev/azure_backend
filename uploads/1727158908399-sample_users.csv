@@ -1,0 +1,8 @@
+name,email,mobile,password,userType,groupType,isDeleted,createdBy,updatedBy,createdAt,updatedAt,role
+MembersFileWaala1,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala2,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala3,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala4,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala5,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala6,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
+MembersFileWaala7,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member

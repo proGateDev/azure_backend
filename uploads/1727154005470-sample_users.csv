@@ -1,0 +1,3 @@
+name,role,email,mobile,password,userType,groupType,isDeleted,createdBy,updatedBy,createdAt,updatedAt
+John Doe,Admin,john.doe@example.com,1234567890,password123,Regular,GroupA,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00
+Jane Smith,Member,jane.smith@example.com,0987654321,securePass456,Premium,GroupB,False,system,system,2024-01-02T00:00:00,2024-01-02T00:00:00

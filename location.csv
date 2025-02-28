@@ -1,0 +1,5 @@
+id,name,type,address,latitude,longitude,phone,email
+1,Central Police Station,Police,123 Main St,37.7749,-122.4194,+1-800-555-1234,central@police.gov
+2,City Hospital,Hospital,456 Elm St,37.7750,-122.4183,+1-800-555-5678,info@cityhospital.com
+3,Eastside Police Station,Police,789 Pine St,37.7762,-122.4147,+1-800-555-9876,eastside@police.gov
+4,Westside Clinic,Hospital,101 Maple St,37.7785,-122.4231,+1-800-555-2345,westside@clinic.com

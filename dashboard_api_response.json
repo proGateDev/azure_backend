@@ -1,0 +1,62 @@
+{
+  "live_tracking": {
+    "total_active_members": 50,
+    "idle_members": 12,
+    "moving_members": 38,
+    "most_active_member": {
+      "member_id": "789",
+      "distance_traveled": "15 km"
+    },
+    "movement_trend": "+8%"
+  },
+  "assigned_tracking": {
+    "total_assigned_tasks": 120,
+    "completed_tasks": 85,
+    "pending_tasks": 35,
+    "avg_time_per_task": "18 min",
+    "fastest_member": {
+      "member_id": "987",
+      "task_time": "5 min"
+    }
+  },
+  "geofencing": {
+    "total_geofence_alerts": 25,
+    "top_geofences": [
+      {
+        "name": "Office HQ",
+        "visits": 40
+      },
+      {
+        "name": "Warehouse",
+        "visits": 30
+      }
+    ],
+    "time_inside_geofence": "68%",
+    "frequent_violators": [
+      {
+        "member_id": "654",
+        "violations": 5
+      }
+    ]
+  },
+  "geofencing_test": {
+    "total_geofence_alerts": 25,
+    "top_geofences": [
+      {
+        "name": "Office HQ",
+        "visits": 40
+      },
+      {
+        "name": "Warehouse",
+        "visits": 30
+      }
+    ],
+    "time_inside_geofence": "68%",
+    "frequent_violators": [
+      {
+        "member_id": "654",
+        "violations": 5
+      }
+    ]
+  }
+}

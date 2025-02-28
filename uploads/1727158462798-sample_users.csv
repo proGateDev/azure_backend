@@ -1,0 +1,2 @@
+name,role,email,mobile,password,userType,groupType,isDeleted,createdBy,updatedBy,createdAt,updatedAt,role
+MembersFileWaala,Admin,john.doe@example.com,1234567890,password123,member,sales,False,system,system,2024-01-01T00:00:00,2024-01-01T00:00:00,member
