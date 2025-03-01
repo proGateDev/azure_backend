@@ -4,7 +4,9 @@
   "description": "A backend for all the astrology related Logics",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "test": "echo \"Skipping tests...\""
+
   },
   "author": "",
   "license": "ISC",
