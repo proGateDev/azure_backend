@@ -40,9 +40,10 @@ app.get("/", (req, res) => {
 });
 //===================================================
 app.use(routes)
+const PORT = process.env.PORT || 3000;
 
-const server = app.listen(process.env.PORT, () => {
-  console.log(`Server started on PORT : ${process.env.PORT}`);
+const server = app.listen(PORT, () => {
+  console.log(`Server started on PORT : ${PORT}`);
 });
 
 // Initialize Socket Service
